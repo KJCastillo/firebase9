@@ -13,7 +13,7 @@ body {
   margin: 0 auto;
 }
 nav {
-  background: #772eff;
+  background: #2e4dff;
   padding: 10px 20px;
   color: #fff;
   display: flex;
@@ -51,7 +51,7 @@ input {
   margin-bottom: 12px;
 }
 button {
-  background: #772eff;
+  background: #2e4dff;
   color: #fff;
   border: 0;
   padding: 6px 8px;
